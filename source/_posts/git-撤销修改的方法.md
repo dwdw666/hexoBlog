@@ -2,6 +2,7 @@
 title: git 撤销修改的方法
 date: 2022-02-15 09:13:37
 tags:
+categories: Git使用 
 ---
 ## git基本概念
 * **工作区：** 工作目录

@@ -2,6 +2,7 @@
 title: '重拾java: jav中的集合（collection）'
 date: 2022-02-14 16:33:41
 tags:
+categories: Java
 ---
 集合
 ---
